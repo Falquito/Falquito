@@ -1,6 +1,5 @@
 ## Holaa 👋
-<img align="right" src="![image](https://github.com/user-attachments/assets/1eb3f199-d80a-4657-ba8c-98d23afc6800)
-" width="200" alt="Imagen">
+<img align="right" src="https://github.com/user-attachments/assets/1eb3f199-d80a-4657-ba8c-98d23afc6800" width="200" alt="Imagen">
 Tengo experiencia en el desarrollo de aplicaciones utilizando tecnologías modernas tanto en 
 frontend como en backend. Mi enfoque principal está en la creación de aplicaciones web 
 escalables y eficientes.
