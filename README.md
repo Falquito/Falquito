@@ -1,9 +1,9 @@
 ## Holaa 👋
 <img align="right" src="https://github.com/Falquito/Falquito/blob/main/81e6ccbea719f13a2b84ef269e2ee423.gif" width="200" alt="Imagen">
-Tengo experiencia en el desarrollo de aplicaciones utilizando tecnologías modernas tanto en 
+<h3>Tengo experiencia en el desarrollo de aplicaciones utilizando tecnologías modernas tanto en 
 frontend como en backend. Mi enfoque principal está en la creación de aplicaciones web 
 escalables y eficientes.
-
+</h3>
 <!--
 **Falquito/Falquito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
