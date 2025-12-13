@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Joel Serrudo
 ### a.k.a Falquito
 
-[![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?label=Follow&style=social)](https://github.com/Falquito)
+[![GitHub followers](https://img.shields.io/github/followers/Falquito?label=Follow&style=social)](https://github.com/Falquito)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-serrudo-463731234/)
 
 **Full-Stack Developer** • **Student** • **Tech Enthusiast**
@@ -40,7 +40,6 @@
 ## 💼 **Current Focus**
 
 - 🏛️ Currently working at **Ministerio Público de Salta** (since Dec 2025).
-- 💻 Developing a **Lost & Found Pets Application** using the PERN stack (Postgres, Express, Angular, Node).
 - 🧠 Exploring **Local AI Models** and hardware optimization for inference.
 - 📚 Continuously learning about Agile Project Management and Software Architecture.
 
